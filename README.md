@@ -1,5 +1,5 @@
-Copyright 2010 Chris Sullo
-
+# Important Note
+This code is no longer maintained, and the updates likely don't work. Additionally, OSVDB is no more so that functionality won't work at all. If you are testing against Wordpress it's recommended you use [WP-Scan](https://wpscan.com/wordpress-security-scanner).
 ```
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
@@ -93,3 +93,5 @@ This program requires:
 ```
 ./cms-explorer.pl -url http://example.com/ -type joomla
 ```
+
+Copyright 2010 Chris Sullo
