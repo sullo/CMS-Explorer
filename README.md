@@ -12,7 +12,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  Dependencies: 	        LibWhisker
 			Getopt::Long
 ```
-#############################################################
 # About
 This program attempts to brute-force guess the plugins and themes
 installed in a CMS by requesting each plugin or theme name and 
