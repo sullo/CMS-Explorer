@@ -48,8 +48,8 @@ gives you 100 queries per day, or make a donation for a higher limit.
 # Requirements
 This program requires:
 * Getopt::Long perl module
-* LibWhisker (LW2) included, or from http://www.wiretrip.net/rfp/lw.asp
-* OSVDB API Key (optional): http://osvdb.org/api/about
+* LibWhisker (LW2) by rain.forrest.puppy (included)
+* ~OSVDB API Key (optional): http://osvdb.org/api/about~
 
 # Limitations
 * Plugin and theme names are from the base directory checked-in to the Wordpress or Drupal repo. In some cases, this top-level directory does *not* match the install directory name.
